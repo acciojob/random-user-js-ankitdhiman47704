@@ -1,6 +1,6 @@
 //your code here
 let image =  document.getElementById("image")
-let getAnother = document.getElementById("getAnotherUser")
+let getAnother = document.getElementById("getUser")
 let fullName = document.getElementById("fullName")
 let additional = document.getElementById("additionalInfo")
 getAnother.addEventListener('click',function(){
